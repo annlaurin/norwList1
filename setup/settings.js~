@@ -2,7 +2,7 @@ var Experigen =  {
 	settings: {
 
         // SETUP: Enter Experiment Name
-		experimentName: "HSElist1Dec12", // use only A-Z, a-z, 0-9
+		experimentName: "RusNumberEngList1", // use only A-Z, a-z, 0-9
 		
 		databaseServer: "http://db.phonologist.org/",
 
@@ -11,7 +11,7 @@ var Experigen =  {
 		strings: {
 		    // SETUP: Enter Title for Browser Window
 			windowTitle:     "HSE",
-			connecting:		 "Подключаемся...",
+			connecting:	"Подключаемся...",
 			loading:         "Загружаю данные...",
 			soundButton:     "    ►    ",
 			continueButton:  "   Дальше   ",
